@@ -1,4 +1,6 @@
 this is a test that learn clang.
+notes on learning [c语言教程](https://wangdoc.com/clang)
+
 
 ## about linux
 ### 修改权限的例子：
@@ -23,11 +25,11 @@ chmod -R a+r *
 
 2. 配置用户配置文件模板
 ```shell
-# vim ~/.vimrc
+$ vim ~/.vimrc
 ```
 3. 编辑示例
 ```md
-"这里是注释，引号代表注释
+"这里是注释，双引号代表注释
 set num  "设置显示行号
 ```
 
@@ -706,4 +708,7 @@ strlen(s);//5
 sizeof(s)//error
 
 ```
+## memory
+stack:系统管理的内存，主要是函数内部的变量,不用管，也管不着。
+heap:用户管理的内存，主要是程序运行过程中存在的变量，全局变量。自己管理。
 
