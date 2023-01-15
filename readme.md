@@ -3,6 +3,7 @@ notes on learning [c语言教程](https://wangdoc.com/clang)
 this is haha.
 this is a test.
 this is a tes from co
+this is a tes from co
 
 ## about linux
 ### 修改权限的例子：
