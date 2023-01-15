@@ -1,6 +1,6 @@
 this is a test that learn clang.
 notes on learning [c语言教程](https://wangdoc.com/clang)
-
+this is a test.
 
 ## about linux
 ### 修改权限的例子：
