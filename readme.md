@@ -8,6 +8,8 @@ this is a tes from co haha
  
 
 
+
+
 ## about linux
 ### 修改权限的例子：
 1. 将档案file1.txt 和 file2.txt设定为该档案拥有者与其他所属同一个群体者可写入，但其他人则不可写
