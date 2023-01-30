@@ -1,10 +1,11 @@
 this is a test that learn clang.  
-notes on learning [c语言教程](https://wangdoc.com/clang)
-this is haha.
-this is a test.
-this is a tes from co
-this is a tes from co
-this is a tes from co haha  
+notes on learning [c语言教程](https://wangdoc.com/clang)  
+this is haha.  
+this is a test.  
+this is a tes from co  
+this is a tes from co  
+this is a tes from co haha   
+ 
 
 
 ## about linux
