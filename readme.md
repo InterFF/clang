@@ -1,8 +1,9 @@
 this is a test that learn clang.  
 notes on learning [c语言教程](https://wangdoc.com/clang)
-this is haha.
-this is a test.
-this is a tes from co haha  
+
+[TOC]
+
+
 
 
 ## about linux
@@ -414,7 +415,7 @@ printf("f2=%f\n",f2);//输出 “1234560.000000”
 3.0E6
 //等同于
 3.E6
- ```
+```
 ### 字面量的类型
 指的是代码里直接出现的值。
 ```c
@@ -518,7 +519,7 @@ if(a < sizeof(int))
 ```c
 int a = (int) ch;
 
-``` 
+```
 ### 可移植类型
 c语言的整数类型（short,int ,long）在不同的计算机上占用的字节个数可能是不一样的，无法提前知道他们到底占用多少字节。
 为了准群控制类型宽度。提高代码的可移植性，因此创造了新的类型名称。
